@@ -2,6 +2,9 @@
 
 A VST 3 instrument that replicates Pokémon Emerald's m4a sound engine, on an emulated GBA sound unit. It requires your own Emerald ROM for sound data.
 
+<img width="582" height="448" alt="image" src="https://github.com/user-attachments/assets/d2cac402-3e91-4e3b-8e07-cd593906f483" />
+
+
 
 ## Features
 
